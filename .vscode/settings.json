@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "visitor",
+        "proxy",
+        "observer",
+        "factory",
+        "composite",
+        "builder",
+        "bridge",
+        "abstractFactory",
+        "Strategy"
+    ]
+}
